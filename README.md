@@ -62,7 +62,9 @@ LangGraph Workflow Orchestration
 Contextual AI Recommendation Engine
         ↓
 SQLite Persistence
+```
 🔍 AI Workflow
+
 Error Input
     ↓
 Classification Node
@@ -114,7 +116,7 @@ Axios
 }
 
 📂 Project Structure
-
+```
 intellidebug-ai/
 
 ├── backend/
@@ -142,7 +144,7 @@ intellidebug-ai/
 │
 ├── README.md
 └── .gitignore
-
+```
 🚀 Local Setup
 
 Backend Setup
