@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+sentence-transformers
+faiss-cpu
+numpy
+langgraph
+pydantic
